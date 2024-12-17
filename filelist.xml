@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="ThunderHawk_build" modversion="1.0.0" corepackage="False" gameversion="1.7.7.0">
+  <ItemAssembly file="%ModDir%/ThunderHawk_build.xml" />
+</contentpackage>
